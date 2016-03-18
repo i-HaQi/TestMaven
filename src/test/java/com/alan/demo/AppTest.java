@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest
         extends TestCase {
     /**
-     *so cold
+     *so cokld
      * come on
      */
     public AppTest(String testName) {
@@ -19,9 +19,8 @@ public class AppTest
 
 
     public static Test suite() {
-        
+        int a=4;
 
-        int a=3;
         return new TestSuite(AppTest.class);
     }
 
