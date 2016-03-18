@@ -20,7 +20,9 @@ public class AppTest
 
     public static Test suite() {
 
-        int a=5;
+        int a=200;
+        int c=100;
+
 
         return new TestSuite(AppTest.class);
     }
