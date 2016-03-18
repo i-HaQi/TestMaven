@@ -9,9 +9,9 @@ import junit.framework.TestSuite;
  */
 public class AppTest
         extends TestCase {
-    /**test
+    /**
      *
-     * @param testName name of the test case
+     * come on
      */
     public AppTest(String testName) {
         super(testName);
