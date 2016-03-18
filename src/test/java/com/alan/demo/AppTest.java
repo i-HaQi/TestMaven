@@ -9,8 +9,8 @@ import junit.framework.TestSuite;
  */
 public class AppTest
         extends TestCase {
-    /**
-     *nihkekkkfjd
+    /**test
+     *
      * @param testName name of the test case
      */
     public AppTest(String testName) {
