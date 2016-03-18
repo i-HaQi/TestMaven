@@ -19,6 +19,7 @@ public class AppTest
 
 
     public static Test suite() {
+
         int a=5;
 
         return new TestSuite(AppTest.class);
